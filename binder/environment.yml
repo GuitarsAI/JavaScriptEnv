@@ -8,6 +8,12 @@ dependencies:
   - nodejs
   - sos
   - rise
+  - widgetsnbextension
+  - ipywidgets
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
+  - jupyterlab
+  - jupyterlab_launcher
   
   - pip:
     - sos-notebook
