@@ -8,7 +8,6 @@ dependencies:
   - nodejs
   - sos
   - rise
-  - npm
   
   - pip:
     - sos-notebook
