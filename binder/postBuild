@@ -2,6 +2,12 @@
 npm install -g ijavascript
 ijsinstall
 
+# Install Plotly Notebook JS
+npm install plotly-notebook-js
+
+# Install ipywidgest JupyterLab Exxtensions
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
+
 # Install SoS Extensions
 python -m sos_notebook.install
 jupyter labextension install jupyterlab-sos
