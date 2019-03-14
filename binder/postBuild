@@ -1,0 +1,7 @@
+# Install ijavascript kernel
+npm install -g ijavascript
+ijsinstall
+
+# Install SoS Extensions
+python -m sos_notebook.install
+jupyter labextension install jupyterlab-sos
