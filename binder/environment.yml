@@ -1,0 +1,17 @@
+name: JavaScript-GuitarsAI
+channels:
+  - conda-forge
+  - damianavila82
+  - anaconda
+  - defaults
+dependencies:
+  - nodejs
+  - sos
+  - rise
+  - npm
+  
+  - pip:
+    - sos-notebook
+    - sos-javascript
+    - sos-python
+    - jupyter_contrib_nbextensions
