@@ -12,9 +12,6 @@ dependencies:
   - ipywidgets
   - jupyter_contrib_nbextensions
   - jupyter_nbextensions_configurator
-  - jupyterlab
-  - jupyterlab_launcher
-  
   - pip:
     - sos-notebook
     - sos-javascript
